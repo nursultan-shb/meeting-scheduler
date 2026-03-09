@@ -7,9 +7,9 @@ A simulation of a meeting scheduling platform that supports time slot management
 * Spring Boot 4.0.3+ 
 * Maven 3.9.12+
 
-The service uses H2 in-memory database and can be run locally either using IDE.
+The service uses H2 in-memory database and can be run locally using IDE.
 To run it using docker-compose, one should first containerize the application.
-For that, .jar file is provided in /target directory.
+For that, .jar file is provided in the root directory.
 
 By default, the service is running on the port: http://localhost:16200.
 
